@@ -1,0 +1,47 @@
+.description-area {
+    width: 650px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+    
+}
+
+.description-titulo {
+    text-transform: uppercase;
+    font-size: 40px;
+    letter-spacing: 2px;
+    font-weight: bold;
+    color: salmon;
+    -webkit-text-stroke-width: 1.2px;
+    -webkit-text-stroke-color: #000;
+}
+
+.description-content {
+    width: 310px;
+    background-color: rgba(0, 0, 0, 0.7);
+    padding: 16px;
+    border-radius: 10px;
+    font-size: 24px;
+    text-align: right;
+    color: #FFF;
+
+}
+
+.description-btn {
+    margin-top: 16px;
+    margin-bottom: 16px;
+}
+
+.description-btn a
+{
+    margin-top: 24px;
+    text-decoration: none;
+    color: #FFF;
+    font-size: 20px;
+    font-weight: 700;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    background-color: salmon;
+    padding: 12px;
+    border-radius: 8px;
+}

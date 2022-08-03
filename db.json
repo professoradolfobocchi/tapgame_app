@@ -1,0 +1,46 @@
+{
+  "users": [
+    {
+      "email": "dolfao@gmail.com",
+      "password": "$2a$10$zVP8bcZZCd1/WMQXWwduxOdyytjN7gkJHGX5s5u0UVZQUkbDnVam2",
+      "avatar": "https://www.gravatar.com/avatar/4de5c4f5dda755029ee20c2f619267c7",
+      "nome": "adolfo",
+      "nick": "piscolo",
+      "score": 0,
+      "ranking": "-",
+      "timeGame": "00:00:00",
+      "conquistas": [
+        {
+          "nome": "cajado luna",
+          "img_url": "img1",
+          "done": true
+        },
+        {
+          "nome": "cajado wood",
+          "img_url": "img2",
+          "done": false
+        },
+        {
+          "nome": "cajado star",
+          "img_url": "img3",
+          "done": false
+        },
+        {
+          "nome": "sabre de luz",
+          "img_url": "img4",
+          "done": false
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "ranking":[
+    {
+      "avatar": "https://www.gravatar.com/avatar/4de5c4f5dda755029ee20c2f619267c7",
+      "score": 0,
+      "conquistas": [
+        {"nome": "cajado luna", "img_url": "img1"}
+      ]
+    }
+  ]
+}

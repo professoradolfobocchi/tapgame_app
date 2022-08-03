@@ -1,0 +1,47 @@
+
+.ranking-item, .meu-ranking-conquista {
+    display: flex;
+    width: 100%;
+    border: 1px solid #000;
+    padding: 6px;
+    margin-bottom: 6px;
+}
+
+.item-avatar, .meu-conquistas-img {
+    height: 40px;
+    width: 40px;
+    border: 1px solid #000;
+}
+
+.item-avatar img,
+.meu-conquistas-img img {
+    height: 40px;
+    width: 40px;
+}
+
+.item-content {
+    flex: 1;
+    height: 40px;
+    margin-left: 8px;
+    display: flex;
+    flex-direction: column;
+}
+
+.item-score {
+    color: salmon;
+    flex:1;
+
+}
+
+.item-conquistas {
+    display: flex;
+    width: 100%;
+    flex: 1;
+    justify-content: space-around;
+}
+
+.item-conquistas img {
+    height: 20px;
+    width: 20px;
+    
+}

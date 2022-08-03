@@ -1,0 +1,12 @@
+.meu-ranking-conquista-block {
+    display: flex;
+    left: inherit;
+    top: inherit;
+    bottom: inherit;
+    right: inherit;
+    background-color: rgba(99, 99, 99, 0.8);
+    z-index: 1000;
+    padding: 8px;
+    margin-bottom: 6px;
+    filter: grayscale(1);
+}

@@ -1,0 +1,34 @@
+
+.footer{
+    height: 80px;
+    width: 100%;
+    background-color: rgba(0, 0, 0, 0.7);
+    position: fixed;
+    bottom: 0;
+    display: flex;
+}
+
+.footer-left,
+.footer-center, 
+.footer-right {
+    flex: 1;
+    color: #fff;
+    display: flex;
+}
+
+.footer-center {
+    flex-direction: column;
+    align-items: center;
+}
+
+.redes-sociais {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+}
+
+.redes-sociais a {
+    text-decoration: none;
+    font-size: 40px;
+    color: salmon;
+}

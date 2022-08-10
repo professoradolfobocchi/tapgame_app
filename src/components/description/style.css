@@ -18,7 +18,7 @@
 
 .description-content {
     width: 310px;
-    background-color: rgba(0, 0, 0, 0.7);
+    background-color: rgba(0, 74, 141, 0.7);
     padding: 16px;
     border-radius: 10px;
     font-size: 24px;
@@ -41,7 +41,7 @@
     font-weight: 700;
     letter-spacing: 2px;
     text-transform: uppercase;
-    background-color: salmon;
+    background-color: rgb(247,189,35);
     padding: 12px;
     border-radius: 8px;
 }

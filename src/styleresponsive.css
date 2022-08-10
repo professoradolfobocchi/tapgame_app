@@ -1,0 +1,16 @@
+@media (max-width: 1080px) {
+    nav img {
+        height: 60px;
+    }
+    .letra {
+        width: 28px;
+        height: 28px;
+        font-size: 20px;
+    }
+}
+
+@media (max-width: 960px) {
+    .banner {
+        flex-direction: column;
+    }
+}

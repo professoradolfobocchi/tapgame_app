@@ -1,15 +1,54 @@
 
 .header {
-    height: 80px;
+    height: 100px;
     width: 100vw;
-    background-color: rgba(0, 0, 0, 0.7);
+    background-color: transparent;
     position: fixed;
     top: 0;
 }
 
 nav {
     height: 100%;
+    display: flex;
+}
 
+nav img {
+    height: 100px;
+}
+
+nav .nav-left {
+    flex: 1;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+nav .nav-right {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.nav-linha {
+    display: flex;
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+}
+
+.letra {
+    background-color: rgb(247,189,35);
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 10px;
+    text-align: center;
+    text-transform: uppercase;
+    font-size: 30px;
 }
 
 nav ul {

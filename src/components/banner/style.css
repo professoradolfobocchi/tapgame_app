@@ -1,7 +1,8 @@
 .banner {
-    background-image: url('../../assets/images/bannerbg.png');
+    background-image: url('../../assets/images/bannerbg.jpg');
     background-position: center;
-    background-size: cover;
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
     height: 100vh;
     width: 100vw;
     display: flex;
